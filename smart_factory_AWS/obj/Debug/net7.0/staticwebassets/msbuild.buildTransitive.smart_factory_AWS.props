@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/smart_factory_AWS.props" />
+</Project>
